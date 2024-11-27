@@ -1,2 +1,3 @@
 # MPI_
-UNIW Assignments
+
+Repo for MPI Assignments in UNIWA
